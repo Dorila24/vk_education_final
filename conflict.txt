@@ -1,1 +1,1 @@
-conflict
+ne_conflict
